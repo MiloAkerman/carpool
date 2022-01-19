@@ -18,6 +18,11 @@ I am hoping you have already [installed Node.js](https://nodejs.org/en/download/
 
 ### Node.JS Setup
 This will be the functional part of the code. 
+- Open the console. (you can do it by typing `cmd` in the Windows search bar)
+- Type `color 0A`. This is an important step and you should not skip it under any circumstances
+- Navigate to the folder the project is in. If you have it open in File Explorer, you can just click the down arrow in the top bar and copy what comes up.
+    - After you have the address, type `cd` followed by the address.
+- Type `npm install` to download all appropiate directories
 - Open `main.js` from the code you downloaded earlier
 - Do your thing. With the default code, "TEST" will be written to `test2.json` in bucket `carpool-project`. If you don't know what any of that means, you're not alone.
 
